@@ -1,6 +1,7 @@
 # Table of contents
 
-* [Skull & Head](README.md)
+* [About This Guide](README.md)
+* [Skull & Head](<README (1).md>)
   * [Angles of the skull](skull-and-head/angles-of-the-skull.md)
   * [Head](skull-and-head/head.md)
   * [Features](skull-and-head/features.md)

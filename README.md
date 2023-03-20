@@ -1,6 +1,3 @@
----
-description: Skull dimension and face proportions
----
+# About This Guide
 
-# Skull & Head
-
+This guide is an anatomy reference for artists, designed to help you conceptualise and draft figures and portraits with anatomical accuracy.
