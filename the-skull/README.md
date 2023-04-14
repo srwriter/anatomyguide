@@ -41,5 +41,5 @@ The female chin is more rounded and pointed, and the jaw narrower with a wider a
 
 ### Skull Angles
 
-View the skull from different angles with some anatomical terms.
+View of the skull from different angles with some anatomical terms.
 
