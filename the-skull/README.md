@@ -16,6 +16,10 @@ The red dots next to each figure mark significant areas to note when drawing the
 
 <figure><img src="../.gitbook/assets/Skull dimensions.tif" alt=""><figcaption></figcaption></figure>
 
+### Skull Angles
+
+View of the skull from different angles.
+
 ### Male vs. female skull
 
 <figure><img src="../.gitbook/assets/female vs. male skull-srobinson.tif" alt=""><figcaption></figcaption></figure>
@@ -36,10 +40,4 @@ In the side view of the male and female skulls, you'll notice that the male skul
 
 
 The female chin is more rounded and pointed, and the jaw narrower with a wider angle - up to 120-140 degrees **(B)**.
-
-
-
-### Skull Angles
-
-View of the skull from different angles.
 
