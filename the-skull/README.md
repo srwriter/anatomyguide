@@ -4,7 +4,7 @@ description: Skull proportions
 
 # The skull
 
-Learning the skull's proportions will help you draw the head and face in proportion, and understand the depth of features and distances between them.
+Learning the skull's proportions will help you draw the head and face, and understand the depth of features and distances between them.
 
 You can divide the skull into <mark style="color:blue;">two or three sections</mark> as seen in figure **A** below. You don't need to know all the anatomical terms of the skull, but it can help you remember the sections when drawing.
 
