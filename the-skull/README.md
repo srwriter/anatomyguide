@@ -12,19 +12,17 @@ You can divide the skull into <mark style="color:blue;">two or three sections</m
 The red dots next to each figure mark significant areas to note when drawing the head.
 {% endhint %}
 
-<figure><img src="../.gitbook/assets/Skull dimensions.tif" alt="skull dimensions"><figcaption><p>Skull Dimensions</p></figcaption></figure>
-
-
-
-<figure><img src="../.gitbook/assets/female vs. male skull-srobinson.tif" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Skull dimensions.tif" alt=""><figcaption></figcaption></figure>
 
 ### Male & Female Skull&#x20;
 
-L**orem Ipsum** is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen&#x20;
+<figure><img src="../.gitbook/assets/female vs. male skull-srobinson.tif" alt=""><figcaption></figcaption></figure>
+
+
 
 
 
 ### Skull Angles
 
-L**orem Ipsum** is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen&#x20;
+View from the skull from different angles.&#x20;
 
