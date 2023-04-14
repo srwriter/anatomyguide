@@ -8,5 +8,5 @@ An anatomical reference guide for busy artists on the go. Scroll through for a q
 
 This guide covers the male and female figure. Important features are highlighted and you'll find handy snippets of info throughout.&#x20;
 
-All images are hand-drawn digitally with a Wacom tablet. If you want to see a particular references added, reach out at contact@srpaintings.com.&#x20;
+All images are hand-drawn with a Wacom tablet. If you want to see a particular references added, reach out at contact@srpaintings.com.&#x20;
 
