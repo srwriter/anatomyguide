@@ -1,3 +1,12 @@
+---
+description: An anatomy guide for artists
+---
+
 # About This Guide
 
-A guide for artists that need a quick reference for proportions. This guide covers the head and figure, and highlights important anatomical features to pay attention to while drawing.
+An anatomical reference guide for busy artists on the go. Scroll through for a quick reference, or settle in with your favorite sketchbook and a hot cup of tea or coffee to practice drawing.&#x20;
+
+This guide covers the male and female figures. Important features are highlighted and you'll find handy snippets of info throughout.&#x20;
+
+All images are hand-drawn digitally with a Wacom tablet. If you want to see a particular references added, reach out at <mark style="color:blue;">contact@srpaintings.com</mark>.&#x20;
+
