@@ -28,16 +28,13 @@ The female skull is smaller than the male skull and more slender in form.
 
 **Forehead:**
 
-In the side view of the male and female skulls, you'll notice that the male skull has a more pronounced glabella and brow bridge **(D)**, making the male forehead appear more flat or slanted. By contrast, the female forehead is high and more rounded because of the larger frontal eminences **(A)**.
-
-**Temple:** temple lines are more pronounced in the male skull **(E)**.\
+In the side view of the male and female skulls below, you'll notice that the male skull has a more pronounced glabella and brow bridge **(D)**, making the male forehead appear more flat or slanted. By contrast, the female forehead is high and more rounded because of the larger frontal eminences **(A)**.\
 
 
-**Eye sockets:** female skulls have rounder eye orbits and sharper supraorbital edges **(C)**.\
+**Temple:** temple lines is more pronounced in the male skull **(E)**.
 
+**Eye sockets:** female skulls have rounder eye orbits and sharper supraorbital edges **(C)**.
 
-**Jaw line:** the male chin is broad and more square, as the mandible body is wider **(F)** and the jaw line has a steeper angle **(G)**. In males, the angle could be 90 degrees, but it is usually 100-120 degrees. \
+**Jawline:** the male chin is broad and square, as the mandible body is wider **(F)** and the jawline has a steeper angle **(G)**. In males, the angle could be 90 degrees, but it is usually 100-120 degrees.&#x20;
 
-
-The female chin is more rounded and pointed, and the jaw narrower with a wider angle - up to 120-140 degrees **(B)**.
-
+The female chin is more rounded and pointed, and the jaw is narrower with a wider angle - up to 120-140 degrees **(B)**.
