@@ -14,15 +14,13 @@ You can divide the skull into <mark style="color:blue;">two or three sections</m
 The red dots next to each figure mark significant areas to note when drawing the head.
 {% endhint %}
 
-<figure><img src="../.gitbook/assets/Skull dimensions.tif" alt=""><figcaption></figcaption></figure>
+
 
 ### Skull Angles
 
 View of the skull from different angles.
 
 ### Male vs. female skull
-
-<figure><img src="../.gitbook/assets/female vs. male skull-srobinson.tif" alt=""><figcaption></figcaption></figure>
 
 The female skull is smaller than the male skull and more slender in form.
 
