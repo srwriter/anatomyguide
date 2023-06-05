@@ -8,7 +8,7 @@ Learning the skull's proportions will help you draw the head and face, and under
 
 You can divide the skull into <mark style="color:blue;">two or three sections</mark> as seen in figure **A** below. You don't need to know all the anatomical terms of the skull, but it can help you remember the sections when drawing.
 
-![image](Skulldimensions.png)
+![Skull dimensions](/Users/sara/Desktop/Anatomyimages/PNG/Skulldimensions.png "Skull Dimensions")
 
 {% hint style="info" %}
 The red dots next to each figure mark significant areas to note when drawing the head.
