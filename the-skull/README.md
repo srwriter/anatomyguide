@@ -11,7 +11,7 @@ You can divide the skull into <mark style="color:blue;">two or three sections</m
 
 
 
-<figure><img src="../.gitbook/assets/skull dimensions (1).png" alt=""><figcaption><p>Skull dimensions</p></figcaption></figure>
+<figure><img src="broken-reference" alt=""><figcaption><p>Skull dimensions</p></figcaption></figure>
 
 {% hint style="info" %}
 The red dots next to each figure mark significant areas to note when drawing the head.
