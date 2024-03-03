@@ -13,4 +13,4 @@ The <mark style="background-color:red;">red dots</mark> next to each figure mark
 
 ### Side View
 
-<figure><img src="../.gitbook/assets/skull side and angle.tif" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/skull side and angle.png" alt=""><figcaption></figcaption></figure>
